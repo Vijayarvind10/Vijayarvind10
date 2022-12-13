@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm R. Vijay Arvind</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
