@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vijay arvind" target="blank"><img align="center" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="vijay arvind" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijay arvind" target="blank"><img align="center" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" alt="vijay arvind" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
