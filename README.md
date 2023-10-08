@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Vijay Arvind</h1>
 <h3 align="center">A passionate AI/ML enthusiast from India</h3>
-
+img align="right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif"
 - 💬 Ask me about **C++ and Python**
 
 - 📫 How to reach me **vijayarvind27@gmail.com**
