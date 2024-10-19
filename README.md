@@ -1,7 +1,7 @@
 # Hi, I'm Vijay Arvind! 👋
 
 ![Binary ASCII Art](https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg)
-[![header](./banner.png)](https://aar.one)
+
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=vijayarvind&label=Profile%20views&color=blueviolet&style=flat)
