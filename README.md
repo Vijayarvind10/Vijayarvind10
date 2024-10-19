@@ -1,5 +1,5 @@
-## My Picture in Binary
+## View My Picture
 
-Here is the binary representation of my picture:
+Click the link below to view my picture:
 
-[Download Binary Image](https://github.com/Vijayarvind10/Vijayarvind10/blob/main/binary_image.txt)
+[View Image Display](https://github.com/Vijayarvind10/Vijayarvind10/blob/main/image.html)
