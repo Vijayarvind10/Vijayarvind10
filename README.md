@@ -16,9 +16,6 @@ I believe in creating well-documented, efficient solutions that address real-wor
 
 ## 🔧 What I Do
 
-### Full-Stack Development
-I'm proficient in building **scalable web applications** with a focus on **React.js** for front-end development and **Flask** for back-end services. I prioritize creating responsive, user-friendly interfaces and secure, scalable server architectures.
-
 ### Machine Learning & AI
 I actively work on **machine learning projects** using frameworks like **TensorFlow** and **PyTorch**. From real-time systems to image recognition tasks, I enjoy applying **deep learning models** to practical use cases and improving them for real-world performance.
 
