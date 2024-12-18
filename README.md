@@ -2,14 +2,27 @@
 
 ![Binary ASCII Art](https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg)
 
+![Profile views](https://komarev.com/ghpvc/?username=vijayarvind&label=Profile%20views&color=blueviolet&style=flat)
+
+---
+
 ## 🙋‍♂️ About Me
+
 🎓 **Graduate Student** at the **University of California, Santa Cruz**  
 💡 Passionate about **AI**, **Cloud Deployments**, and **Full-Stack Development**  
 📍 Based in **California**, open to remote work globally!  
 
+I'm a **Computer Science graduate student** with a passion for building scalable software solutions. I specialize in **Python**, **C++**, **SQL**, and **JavaScript**. I have a strong foundation in **full-stack development**, with expertise in **React.js**, **Flask**, and deploying applications on **AWS** using **Docker**. My technical background also includes **CI/CD pipelines**, **machine learning**, and **data structures & algorithms**.
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=vijayarvind&label=Profile%20views&color=blueviolet&style=flat)
+
+## 🚀 GitHub Stats
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayarvind&show_icons=true&theme=radical)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayarvind&layout=compact&theme=radical)
+
+---
 
 ## 🔧 What I Do
 
@@ -27,22 +40,22 @@ I emphasize clear, organized documentation using **LaTeX** and **Notion**. Wheth
 ## 🛠 Tech Stack
 
 **Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frameworks and Libraries**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 **Tools**  
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ---
@@ -76,9 +89,6 @@ I emphasize clear, organized documentation using **LaTeX** and **Notion**. Wheth
 - **GraphQL & Modern Web Technologies**: Expanding knowledge in **GraphQL** and **modern web development practices** to improve data fetching and front-end performance.
 
 ---
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayarvind&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayarvind&layout=compact&theme=radical)
-
 
 ## 💡 Let's Collaborate!
 
@@ -87,3 +97,10 @@ If you're passionate about building scalable systems, developing innovative AI s
 📫 **Reach out at**: [vijayarvind27@gmail.com](mailto:vijayarvind27@gmail.com)
 
 Check out my projects and code on **[GitHub](https://github.com/vijayarvind)** and connect on **[LinkedIn](https://linkedin.com/in/vijay-arvind)**.
+
+---
+
+
+## 💼 Let's Connect!
+
+Feel free to reach out or collaborate on projects! Let's build something amazing together! 🌱
