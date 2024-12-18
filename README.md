@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg" alt="Binary ASCII Art" width="200">
+      <img src="https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg" alt="Binary ASCII Art" width="400">
     </td>
     <td>
       <h1>About Me</h1>
