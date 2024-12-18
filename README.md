@@ -1,4 +1,4 @@
-# Vijay Arvind
+# <span style="font-family: 'Source Code Pro', monospace; color: #61dafb;">Vijay Arvind</span>
 
 ![Binary ASCII Art](https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg)
 
