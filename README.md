@@ -1,19 +1,74 @@
-# Hi, I'm Vijay Arvind! 👋
 
-<table style="width:100%;">
-  <tr>
-    <td style="width:50%; text-align:center;">
-      <img src="https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg" alt="Binary ASCII Art" style="width:90%; max-width:400px;">
-    </td>
-    <td style="width:50%; vertical-align:top;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vijay Arvind</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-evenly;
+      width: 100%;
+      height: 100vh;
+    }
+    .image-section {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .image-section img {
+      max-width: 90%;
+      max-height: 80%;
+    }
+    .text-section {
+      flex: 1;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1em;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Image Section -->
+    <div class="image-section">
+      <img src="https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg" alt="Binary ASCII Art">
+    </div>
+
+    <!-- Text Section -->
+    <div class="text-section">
       <h1>About Me</h1>
       <p>
-        I'm a <strong>Computer Science graduate student</strong> at the <strong>University of California, Santa Cruz</strong>, with a passion for building scalable software solutions, specializing in <strong>Python</strong>, <strong>C++</strong>, <strong>SQL</strong>, and <strong>JavaScript</strong>. I have a strong foundation in <strong>full-stack development</strong>, with expertise in <strong>React.js</strong>, <strong>Flask</strong>, and deploying applications on <strong>AWS</strong> using <strong>Docker</strong>. My technical background also includes <strong>CI/CD pipelines</strong>, <strong>machine learning</strong>, and <strong>data structures & algorithms</strong>.
+        I'm a <strong>Computer Science graduate student</strong> at the 
+        <strong>University of California, Santa Cruz</strong>, with a passion 
+        for building scalable software solutions, specializing in 
+        <strong>Python</strong>, <strong>C++</strong>, <strong>SQL</strong>, 
+        and <strong>JavaScript</strong>. I have a strong foundation in 
+        <strong>full-stack development</strong>, with expertise in 
+        <strong>React.js</strong>, <strong>Flask</strong>, and deploying 
+        applications on <strong>AWS</strong> using <strong>Docker</strong>. 
+        My technical background also includes <strong>CI/CD pipelines</strong>, 
+        <strong>machine learning</strong>, and <strong>data structures & algorithms</strong>.
       </p>
-    </td>
-  </tr>
-</table>
-
+    </div>
+  </div>
+</body>
+</html>
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=vijayarvind&label=Profile%20views&color=blueviolet&style=flat)
 
