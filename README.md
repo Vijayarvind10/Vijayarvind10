@@ -76,6 +76,9 @@ I emphasize clear, organized documentation using **LaTeX** and **Notion**. Wheth
 - **GraphQL & Modern Web Technologies**: Expanding knowledge in **GraphQL** and **modern web development practices** to improve data fetching and front-end performance.
 
 ---
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayarvind&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayarvind&layout=compact&theme=radical)
+
 
 ## 💡 Let's Collaborate!
 
