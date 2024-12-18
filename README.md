@@ -1,11 +1,11 @@
 # Hi, I'm Vijay Arvind! 👋
 
-<table>
+<table style="width:100%;">
   <tr>
-    <td>
-      <img src="https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg" alt="Binary ASCII Art" width="400">
+    <td style="width:50%; text-align:center;">
+      <img src="https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg" alt="Binary ASCII Art" style="width:90%; max-width:400px;">
     </td>
-    <td>
+    <td style="width:50%; vertical-align:top;">
       <h1>About Me</h1>
       <p>
         I'm a <strong>Computer Science graduate student</strong> at the <strong>University of California, Santa Cruz</strong>, with a passion for building scalable software solutions, specializing in <strong>Python</strong>, <strong>C++</strong>, <strong>SQL</strong>, and <strong>JavaScript</strong>. I have a strong foundation in <strong>full-stack development</strong>, with expertise in <strong>React.js</strong>, <strong>Flask</strong>, and deploying applications on <strong>AWS</strong> using <strong>Docker</strong>. My technical background also includes <strong>CI/CD pipelines</strong>, <strong>machine learning</strong>, and <strong>data structures & algorithms</strong>.
@@ -15,7 +15,6 @@
 </table>
 
 ---
-
 ![Profile views](https://komarev.com/ghpvc/?username=vijayarvind&label=Profile%20views&color=blueviolet&style=flat)
 
 ## 🔧 What I Do
