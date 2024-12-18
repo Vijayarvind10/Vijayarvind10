@@ -2,11 +2,11 @@
 
 ![Binary ASCII Art](https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg)
 
-## About Me
+## 🙋‍♂️ About Me
+🎓 **Graduate Student** at the **University of California, Santa Cruz**  
+💡 Passionate about **AI**, **Cloud Deployments**, and **Full-Stack Development**  
+📍 Based in **California**, open to remote work globally!  
 
-I'm a **Computer Science graduate student** at the **University of California, Santa Cruz**, with a passion for building scalable software solutions. I specialize in **Python**, **C++**, **SQL**, and **JavaScript**. 
-
-I have a strong foundation in **full-stack development**, with expertise in **React.js**, **Flask**, and deploying applications on **AWS** using **Docker**. My technical background also includes **CI/CD pipelines**, **machine learning**, and **data structures & algorithms**.
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=vijayarvind&label=Profile%20views&color=blueviolet&style=flat)
