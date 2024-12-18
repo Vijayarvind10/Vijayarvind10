@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,33 +12,45 @@
     }
     .container {
       display: flex;
-      flex-direction: row;
-      align-items: center;
+      flex-wrap: wrap;
+      align-items: flex-start;
       justify-content: space-evenly;
       width: 100%;
-      height: 100vh;
+      min-height: 100vh;
+      padding: 20px;
     }
     .image-section {
-      flex: 1;
+      flex: 1 1 40%;
       display: flex;
       justify-content: center;
       align-items: center;
+      padding: 10px;
     }
     .image-section img {
-      max-width: 90%;
-      max-height: 80%;
+      width: 100%;
+      max-width: 400px;
+      height: auto;
+      border: 2px solid #ccc;
+      border-radius: 8px;
     }
     .text-section {
-      flex: 1;
+      flex: 1 1 55%;
       padding: 20px;
     }
     h1 {
       font-size: 2em;
       margin-bottom: 10px;
     }
-    p {
+    p, li {
       font-size: 1em;
-      line-height: 1.5;
+      line-height: 1.6;
+    }
+    ul {
+      margin: 10px 0;
+      padding-left: 20px;
+    }
+    .tech-badges img {
+      margin: 5px;
     }
   </style>
 </head>
@@ -50,7 +61,7 @@
       <img src="https://github.com/Vijayarvind10/Vijayarvind10/blob/main/Vijay%20ASCII%20Art.svg" alt="Binary ASCII Art">
     </div>
 
-    <!-- Text Section -->
+    <!-- About Me Section -->
     <div class="text-section">
       <h1>About Me</h1>
       <p>
@@ -67,9 +78,30 @@
       </p>
     </div>
   </div>
+
+  <!-- Expanded Content Section -->
+  <div class="container">
+    <div class="text-section">
+      <h1>🔧 What I Do</h1>
+      <ul>
+        <li><strong>Machine Learning & AI:</strong> Actively work on ML projects using frameworks like TensorFlow and PyTorch.</li>
+        <li><strong>DevOps & Cloud:</strong> Expertise in cloud deployments using AWS, Docker, and CI/CD tools like Jenkins.</li>
+        <li><strong>Documentation:</strong> Organized documentation with LaTeX and Notion.</li>
+      </ul>
+      
+      <h2>🛠 Tech Stack</h2>
+      <div class="tech-badges">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+        <!-- Add more badges as needed -->
+      </div>
+    </div>
+  </div>
 </body>
 </html>
----
+
 ![Profile views](https://komarev.com/ghpvc/?username=vijayarvind&label=Profile%20views&color=blueviolet&style=flat)
 
 ## 🔧 What I Do
