@@ -17,10 +17,10 @@ I'm a **Computer Science graduate student** with a passion for building scalable
 ---
 
 ## 🚀 GitHub Stats
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayarvind&show_icons=true&theme=radical)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayarvind10&show_icons=true&theme=radical)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayarvind&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayarvind10&layout=compact&theme=radical)
 
 ---
 
